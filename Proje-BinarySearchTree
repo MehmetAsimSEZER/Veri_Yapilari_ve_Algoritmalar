@@ -1,0 +1,21 @@
+ [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  
+ ilk değer 7 
+ ikinci değer (5) yedinin soluna yazılır
+ üçüncü değer (1) 7 ve 5 ten küçük olduğu için 5 in soluna yazılır
+ dördüncü değer (8) 7 den büyük olduğu için 7 nin sağına yazılır
+ beşinci değer (3) 7 ve 5 ten küçük olduğu için soldan ilerler 1 den büğük oluğu için 1in sağına yazılır
+ altıncı değer (6) 7 den küçük oluğu için soldan ilerler 5 ten büğük olduğu için sağa yazılır
+ yedinci değer (0) 7 5 1 den küçük olduğu için soldan 1 in soluna yazılır
+ sekizinci değer (9) 7 ve 8  den büğük oluğundan 8 in sağına yazılır
+ dokuzuncu değer (4) 7 5 ten küçük olduğu için soldan 1 ve 3 ten büğük olduğu için 3 ün sağına yazılır 
+ onuncu değer (2) 7 5 ten küçük oluğundan soldan 1 den büyük ve 3 ten küçük olduğu için 3 ün soluna yazılır.
+
+                7
+              /   \
+            5      8
+          /  \      \
+        1     6      9
+       / \
+      0   3
+         / \
+        2   4 
